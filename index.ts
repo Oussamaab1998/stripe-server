@@ -3,7 +3,7 @@ import Stripe from "stripe";
 import bodyParser from "body-parser";
 
 const stripe = new Stripe(
-  "sk_test_51Lf6zOGFpDMAzM1VkpiTStObdX2icElttm7aQbBk1OTTWhQlklndOUPDNfZV8ess1WeVE90HUaoBDXF2fpSzH0gg00fWMCB4cp",
+  "sk_test_51LqJSeLJDPAQV3CJAvBfYEkJaqV5Av26yZOMiXbEtTYZPcr9V5w9PHyy4fpHawRxLCVoUVKz02lkatPHaYgWHDVC00LUM2Hq8y",
   {
     apiVersion: "2020-08-27",
     typescript: true,
